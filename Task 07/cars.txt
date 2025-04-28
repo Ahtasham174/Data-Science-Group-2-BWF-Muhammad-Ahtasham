@@ -1,2 +1,0 @@
-bolan,suzuki,2003,1737323.0,available
-sportage,kia,2020,1700000.0,available
